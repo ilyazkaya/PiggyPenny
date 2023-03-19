@@ -11,4 +11,4 @@ To use categorization app (main.py)
 
 Once all transactions have been categorized and consolidated you can analyze the data in any way you want.
 "finance_analysis.py" provides some examples of the insights that you can get about your transaction history. The
-analysis file is organized in the Jupyter Notebook style but with using PyCharm cells in "Scientiffic mode" on.
+analysis file is organized in the Jupyter Notebook style but with using PyCharm cells in "Scientific mode" on.
